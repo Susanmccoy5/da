@@ -1,0 +1,93 @@
+.vi - filmstp {
+        position: relative;overflow: hidden;margin: auto
+    }.vi - filmstp.clr {
+        clear: both;font - size: 0;line - height: 0;height: 0
+    }.vi - filmstp a {
+        outline: 0
+    }.vi - filmstp.flm - btn {
+        width: 8 px;height: 12 px;margin - top: 34 px;position: absolute;top: 0;display: inline - block
+    }.vi - filmstp.flm - btn.pre {
+        background - position: -243 px - 54 px;
+        left: 0
+    }.vi - filmstp a: hover.flm - btn.pre {
+        background - position: -243 px - 54 px
+    }.vi - filmstp.flm - btn.nxt {
+        background - position: -267 px - 54 px;
+        right: 0
+    }.vi - filmstp a: hover.flm - btn.nxt {
+        background - position: -267 px - 54 px
+    }.vi - filmstp a.flm - btn.pre.disable {
+        background - position: -289 px - 54 px
+    }.vi - filmstp a.flm - btn.nxt.disable {
+        background - position: -300 px - 54 px
+    }.vi - filmstp a img {
+        border: 0
+    }.vi - filmstp.fs_imgc {
+        margin: 0 auto;overflow: hidden;position: relative
+    }.vi - filmstp ul.lst {
+        padding: 0;margin: 0;list - style: none;position: absolute;left: 0;top: 0;white - space: nowrap;width: 2000 px
+    }.vi - filmstp ul.lst li {
+        float: left;margin: 1 px 0 0 - 1 px;height: 76 px;width: 76 px
+    }.vi - filmstp.lst.icon a.pic {
+        display: inline - block;text - align: center;vertical - align: middle;overflow: hidden;background - color: #FFF;border: 1 px solid# CCC;border - radius: 3 px;height: 74 px;width: 74 px
+    }.vi - filmstp.lst.icon a.pic: hover {
+        border: 1 px solid #999;position:relative;z-index:1}.vi-filmstp .lst.icon a.pic:focus{border:1px solid # 3 af;position: relative;z - index: 1
+    }.vi - filmstp.lst.icon a.pic b {
+        height: 100 % ;width: 0;vertical - align: middle;text - align: center;display: inline - block
+    }.vi - filmstp.lst.icon a.pic img {
+        text - align: center;
+        vertical - align: middle
+    }.vi - filmstp.lst.icon a.title {
+        display: block;white - space: normal;padding - top: 7 px
+    }.vi - filmstp.sel {
+        position: absolute;height: 74 px;width: 74 px;top: 0;border: 2 px solid #777!important;left:17px;z-index:2;border-radius:3px}.vi-filmstp ul.lst li:first-child{margin-left:0!important}.vi-filmstp .lst.icon a.pic{cursor:pointer}.hide{display:none!important}.sz980 .vi-filmstp .lst.icon a.pic,.sz980 .vi-filmstp .sel{height:71px;width:71px}.sz980 .vi-filmstp ul.lst li{height:73px;width:73px}.vi-filmstp .tdThumb{text-align:center;vertical-align:middle}.vi-filmstp .tdThumb div{width:74px}.sz980 .vi-filmstp .tdThumb div{width:71px}.gspr{display:block}.vi-soiimgframe{height:64px;width:64px;border:1px solid lightgray;display:inline-block;text-align:center}.vi-soiimgframeEm{margin:1em 0}# vi - soi - inline - div.vi - soiimgframeEm {
+            margin: 0 3 px 0 0!important
+        }.vi - soiimghelper {
+            display: inline - block;height: 100 % ;vertical - align: middle
+        }.vi - soiimgstyl {
+            vertical - align: middle;
+            max - height: 64 px;
+            max - width: 64 px
+        }
+        div# vi - soilayer - inner - lnks {
+            margin - bottom: 10 px;
+            margin - right: 10 px;
+            float: right;
+            padding - top: 10 px
+        }
+        div# vi - soilayer - inner - cntr {
+            height: 68 px;margin: 0 10 px 10 px 10 px
+        }
+        div# vi - soilayer - inner - cntr - none {
+            padding - left: 10 px;
+            padding - top: 10 px;
+            padding - bottom: 10 px
+        }#
+        vi - soilayer - alllnk > span,
+        #vi - soilayer - allcatlnk > span {
+            padding - left: 3 px
+        }.topCompFg.comp_green {
+            color: #219901}.topCompFg .comp_red{color:# dd2032
+        }.topCompFg.comp_blk {
+            color: #000}.topCompFg .comp_org{color:# f18d00
+        }.topCompFg.lgFont {
+            font - size: 13 px
+        }.topCompFg.mdFont {
+            font - size: 13 px
+        }.topCompFg.topm5 {
+            margin: 5 px 0 0 0
+        }.topCompFg.topbm5 {
+            margin: 5 px 0 5 px 0
+        }.topCompFg.complfdiv {
+            display: table
+        }.topCompFg.topCompFont.l - dl {
+            font - weight: bold;
+            line - height: normal
+        }.topCompFg# notesSp.l - dl {
+            font - weight: normal
+        }.topCompFg.topCompFont {
+            font - weight: bold;
+            line - height: normal
+        }.topCompFg# readMoreId {
+            font - size: 11 px
+        }
